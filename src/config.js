@@ -7,10 +7,15 @@ const profile = {
   about: {
     title: `HEY THERE! 
     I'M GENARO GONZALEZ`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-   
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.`,
+    description: `I am currently a student at CSUB with a passion for coding and software development, I have experience creating cross-platform mobile applications, REST APIs, and more.
+    
+    I am skilled in:
+
+    C, C++, C#, and JavaScript
+
+    And have a lot of experience with:
+
+    React Native, React, Redux, .NET Core, PostgreSQL, SQL Server, and more! `,
     findMeOn: [
       {
         iconName: 'location',
@@ -18,29 +23,19 @@ const profile = {
         url: '',
         hoverColor: '#546e7a'
       },
-      {
-        iconName: 'twitter',
-        text: '@username',
-        url: 'https://twitter.com/username',
-        hoverColor: '#1da1f2'
-      },
+      
       {
         iconName: 'email',
         text: 'genarogonzaleziv@gmail.com',
         url: 'mailto://genarogonzaleziv@gmail.com',
         hoverColor: '#546e7a'
       },
-      {
-        iconName: 'lock',
-        text: '@kuser',
-        url: 'https://keybase.io/kuser',
-        hoverColor: '#e9641c'
-      }
+     
     ]
   },
   social: [
     {
-      iconName: 'linkedIn',
+      iconName: 'account',
       url: 'https://www.linkedin.com/in/dylan-gonzalez-88bb0a19a/',
       text: "I'm on LinkedIn",
       hoverColor: '#1da1f2'
