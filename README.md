@@ -1,12 +1,3 @@
-# ptemplate
-[![Dependencies](https://david-dm.org/nethruster/ptemplate.svg)](https://david-dm.org/nethruster/ptemplate) [![DevDependencies](https://david-dm.org/nethruster/ptemplate/dev-status.svg)](https://david-dm.org/nethruster/ptemplate?type=dev)
-
-A personal website template that's not a pain in the ass to setup and use.
-
-[Demo](https://ptemplate.nethruster.com)
-
-Example screenshot
-![alt text](https://github.com/nethruster/ptemplate/blob/master/src/assets/icons/meta-img.png "Home screenshot")
 
 ### Requirements
 - You need to have `yarn` (**recommended**) or `npm` installed.
