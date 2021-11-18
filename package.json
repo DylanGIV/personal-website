@@ -15,6 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "ajax-promises": "^1.0.3",
+    "glamor": "^2.20.40",
     "preact": "^8.2.5",
     "preact-compat": "^3.17.0",
     "preact-grecaptcha": "^0.2.1",
